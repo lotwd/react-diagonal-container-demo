@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-diagonal-container-demo/static/css/main.95fcc742.chunk.css",
+    "main.js": "/react-diagonal-container-demo/static/js/main.7fe7defc.chunk.js",
+    "main.js.map": "/react-diagonal-container-demo/static/js/main.7fe7defc.chunk.js.map",
+    "runtime-main.js": "/react-diagonal-container-demo/static/js/runtime-main.7a18bdc3.js",
+    "runtime-main.js.map": "/react-diagonal-container-demo/static/js/runtime-main.7a18bdc3.js.map",
+    "static/css/2.d4a8fa59.chunk.css": "/react-diagonal-container-demo/static/css/2.d4a8fa59.chunk.css",
+    "static/js/2.98558471.chunk.js": "/react-diagonal-container-demo/static/js/2.98558471.chunk.js",
+    "static/js/2.98558471.chunk.js.map": "/react-diagonal-container-demo/static/js/2.98558471.chunk.js.map",
+    "index.html": "/react-diagonal-container-demo/index.html",
+    "static/css/2.d4a8fa59.chunk.css.map": "/react-diagonal-container-demo/static/css/2.d4a8fa59.chunk.css.map",
+    "static/css/main.95fcc742.chunk.css.map": "/react-diagonal-container-demo/static/css/main.95fcc742.chunk.css.map",
+    "static/js/2.98558471.chunk.js.LICENSE.txt": "/react-diagonal-container-demo/static/js/2.98558471.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a18bdc3.js",
+    "static/css/2.d4a8fa59.chunk.css",
+    "static/js/2.98558471.chunk.js",
+    "static/css/main.95fcc742.chunk.css",
+    "static/js/main.7fe7defc.chunk.js"
+  ]
+}
